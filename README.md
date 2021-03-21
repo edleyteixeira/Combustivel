@@ -1,2 +1,7 @@
-# calculadoracombustivel
-Objeto de estudo - calcula a procentagem de diferença entre gasolina e etanol e indica qual o mais vantajoso
+### Calculadora Etanol ou Gasolina
+
+## Calcula qual o melhor combustivel no momento para abastecimento.
+
+# Objeto de estudo no React Native
+
+
